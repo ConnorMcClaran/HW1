@@ -1,0 +1,56 @@
+        Connor McClaran, Homework 1 Questions that don't require code
+
+1.1.1) A. 7.5 B. 200.0000001 C. True
+1.1.2) A. type= Double value= 1.618 B. type = Double value = 10.0 C. type = boolean value = true D. type = String value = '33'
+1.1.4) A. The term "then" is not used in if statements in java. If the "then" is replaced with curly brackets around c=0; then the expression would be correct.
+       B. The condition after an if statement must be placed within parenthesis.
+       C. The statement c=0; needs to be inside curly brackets, as stated in part A.
+       D. No curly brackets again. Both c=0; in the if and b=0; in the else need to be enclosed within {}
+1.1.6) The code will print the first 15 characters of fibonacci, each on a new line.
+        0
+        1
+        1
+        2
+        3
+        5
+        8
+        13
+        21
+        34
+        55
+        89
+        144
+        233
+        377
+        610
+1.1.7) A. 9.0 B. 999 C. 10
+1.1.8) A. b
+       B. bc
+       C. 'a' + 4
+1.1.2) 0
+       1
+       2
+       3
+       4
+       5
+       6
+       7
+       8
+       9
+       -1
+1.3.3) It looks to me like all the given sequences would not be possible in a stack implementation. A stack is last in first out, and the problem states the numbers are
+       placed in the stack in order. None of the given sequences show enough order to be possible.
+       Answer: a,b,c,d,e,f,g,h
+1.4.1) Using Mathematical Induction
+       N(N-1)(N-2)/6
+       For N=3 there should be 1 option (1,2,3)
+       3(3-1)(3-2)/6= 1
+       For N=4 there should be 4 options (1,2,3),(1,2,4),(1,3,4),(2,3,4)
+       4(4-1)(4-2)/6= 4
+1.4.5) A. N B. 1 C. 1 D. 2N^3 E. lg(2N) F.lg(N^2 +1) G. N^100
+1.4.6) A. N^2 B. N^2 C. N^2
+1.4.9) 2^b(N) + T = f(N)
+
+
+
+
